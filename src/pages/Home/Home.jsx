@@ -18,7 +18,7 @@ export default function Home() {
       <div className="menu mt-8">
         <div className="container mx-auto">
           <div className="flex justify-between"></div>
-          <ul className="text-sm flex justify-between">
+          <ul className="text-sm flex justify-between ">
             <li>Fresh</li>
             <li>Todays Deal</li>
             <li>Menu 2</li>

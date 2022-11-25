@@ -20,7 +20,7 @@ export default function Hotdeals() {
   return (
     <div className="container my-10">
       <div className="md:flex items-center justify-center p-6">
-        <div className="w-[548px]">
+        <div className="w-[548px] pb-6">
           <p className="text-7xl">
             We picked some <span className="text-[#FFAE5D]">cool things</span>{" "}
             for you!
