@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+// import furniture from "../../assets/furniture.jpg";
 import "./TodaysHotdeal.css";
 
 export default function TodaysHotdeal() {
@@ -42,7 +43,14 @@ export default function TodaysHotdeal() {
         </div>
       </div>
 
-      <div className="bg-pic"></div>
+      <div className="relative">
+        <div className="bg-pic">
+          {/* <div className=""> */}
+          {/* <img src={furniture} alt="" srcset="" /> */}
+          <h1 className="absolute inset-0 color-[#A29781]">Special Offer on</h1>
+          {/* </div> */}
+        </div>
+      </div>
     </div>
   );
 }
