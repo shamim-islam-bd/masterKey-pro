@@ -14,10 +14,10 @@ export default function Review() {
 
   return (
     <div className="container">
-      <h1 className="font-bold border-dashed border-b-2 border-[#FFAE5D] mb-4">
+      <h1 className="font-bold border-dashed border-b-2 border-[#FFAE5D] mb-4 p-4">
         Review your Purches
       </h1>
-      <div className="flex justify-around gap-10">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
         {hotdeals.map((hotdeal) => (
           <div
             className="rounded-lg border border-radius-2 flex justify-center items-center p-10"

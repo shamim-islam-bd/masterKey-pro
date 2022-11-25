@@ -19,7 +19,7 @@ export default function Hotdeals() {
 
   return (
     <div className="container my-10">
-      <div className="flex items-center justify-center">
+      <div className="md:flex items-center justify-center p-6">
         <div className="w-[548px]">
           <p className="text-7xl">
             We picked some <span className="text-[#FFAE5D]">cool things</span>{" "}
@@ -30,10 +30,10 @@ export default function Hotdeals() {
           <h1 className="font-bold border-dashed border-b-2 border-[#FFAE5D] mb-4">
             Hot deals for you
           </h1>
-          <div className="grid grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotdealsSlice.length > 0 &&
               hotdealsSlice.map((hotdeal) => (
-                <div className="" key={hotdeal._id}>
+                <div className="flex md:grid" key={hotdeal._id}>
                   <div className="w-[200px]">
                     <img src={hotdeal.picture} alt="" />
                   </div>
