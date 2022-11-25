@@ -1,0 +1,9 @@
+.bg-pic {
+  background: url("https://s3-alpha-sig.figma.com/img/8e36/f52e/7fe15005e3343dfe673f4181c64bd7a5?Expires=1670198400&Signature=YCyt5OfYcad0pUGiAP5Z0o092lWsUp3L2lQiunS~5C~9vK8pQhsDv0Fxb1T7ZdlE~faB5lpEfqp0-B-3GjqpiQ6RLe0Qft633NDKZnlOepmgtjjRI06kLcGFIDuMONL-95EJNzeTGGNddOd5SfSGrud3oMTPsesuigFuwYQmGKnDSxkwWDw8tyTOsQNdCoaFRPttJMtBbXjGX1LxynmNdTGV9ZF~jVsO3SsO11BQiDwY4S3GOT1XkVBDYGsWk7JPkPfyzUgu1r86uW7QthHbJnIkpmMwRt7YYUU5Rci5zppATK5pgi0qA4dXLIl70KT7CiUuIZ02ArS1HBPIFwPaag__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA")
+    no-repeat center center;
+  background-size: cover !important;
+  width: 100%;
+  border-radius: 20px;
+  height: 800px;
+  left: 201px;
+}

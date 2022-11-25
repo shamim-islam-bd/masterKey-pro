@@ -1,0 +1,9 @@
+.banner {
+  background: url("https://s3-alpha-sig.figma.com/img/f583/453e/b69fe68afb85f415556406bde1b9f6bd?Expires=1670198400&Signature=C3almqmUIAcIkk8c8UYPVPN8FQ1E71wmtZUdYqonO3i0Qasi~Wmal7mw68FUO8hNvSqp9D3Oqn-nDgpDZS21E5T9LNU1~m74atnnnZUZM-Ckp2v6ktn7WeJJf~T5bG23Id48RqY008WdNZHqE2n~stA2M5BrSrSa~hexueuZEo1zgKQK8Vm4vrn13dUU0gngsn7jfWtd6WSRbG-YvEousFcXVDYr-rZy54ZFaLkNXcTIaK8rkFl8i8qZXQvf9Hca-LrBBNHBHVHuF6QdHF3vFAZybYRqFr9sZOjKrDneWYNsEu6Tfctj~nlOOWjU6cZBmmgSBxsjmurVEKUUXVuSew__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA")
+    no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  border-radius: 20px;
+  height: 70vh;
+  left: 201px;
+}

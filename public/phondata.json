@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "01",
+    "name": "2021 Apple iPad Pro with Apple M1 chip (12.9-inch/32.77 cm, Wi-Fi, 128GB)",
+    "picture": "https://s3-alpha-sig.figma.com/img/a028/87aa/44c845c8170f89b21a737cb10214035a?Expires=1670198400&Signature=E1FPUQGrsG9UYkyMIGOvktID94wbuPPZeu36vonL5K3ZyfOPxCtMSFhBpAK8ErNmEmRXa-GeyeqeUvP97JA8gpd55hm0xAFekkOrp2rRO2Xs8~VLWygRQNt6XJLm1uhBQbxVqrrdJJmcJOoWdJYAtLoNlJg5qDE9uV3ZMklG0JAzzlhA3ZS82G9mE-b~Be4XJmV-FR6XFraZjTqQ9gj5hI9PRTStQ6S8FcIFoxfz6R8hkKLqCqidwsCkTmElPPG3mFGt2jvN023o1~B3BqjPblM6BQn8Mb32J5jmzh9GNFZ5b-2as~pxUZReOL1Df2kzbjWXMp94badpIDYl9L4nDQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+    "price": "4,6297.00",
+    "discount": 40
+  },
+  {
+    "_id": "02",
+    "name": "iPhone 14 Pro Max with Apple M1 chip (6.7-inch/17.0 cm, 128GB",
+    "picture": "https://s3-alpha-sig.figma.com/img/c887/482f/2f4c0f87f4a3fbf45b9ae37b0360315c?Expires=1670198400&Signature=OHg5TToRtqHIW1rr-8i5Q3vPozkwHpmQsXPq5dFSPMMk7HorcHhgI8-xwHDr~kvIMJxBCwnG60kmSGUPWx-Nv6k1-rzfEv7gKxqsM9zKEuNygARbL9Frw0eLC2BHNAHp1WUa1se62e52nbGOlKTiCGi26od4Fs4ejPqa5ZmR6lszw3mjrmmYj05Bbkl5qFoOtIQseq9qN5Z1D8Q1ThM2jes6vByvfc6sLB~SCb1H5c0eqpXds4YwMtrj0nVEd2HieSwyni~3kAdE~2ZgBtJ4YxkJUogYXCwY6qdnTtLWxBg1uYOsYbYEE8-b38e-pXKH0MHFxP3ZZCO0n13AT91nSQ__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+    "price": "1,69999.00",
+    "discount": 26
+  }
+]
